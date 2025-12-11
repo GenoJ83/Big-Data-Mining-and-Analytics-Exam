@@ -2,8 +2,9 @@
 
 **Course**: DSC3108  
 **Scenario**: Large-Scale Retail Recommendation System  
-**Student**: [Your Name]  
-**Date**: December 2025
+**Student**: GENO OWOR JOSHUA 
+**REG NO.**: M23B23/006
+
 
 ## 📋 Project Overview
 
