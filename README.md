@@ -102,17 +102,4 @@ jupyter notebook
 2. Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative Filtering for Implicit Feedback Datasets
 3. Uganda Data Protection and Privacy Act (2019)
 
-## 📝 Submission Checklist
-
-- [x] Jupyter notebooks with code and explanations
-- [ ] Final PDF report (export from notebook 4)
-- [ ] Presentation slides (8-10 slides)
-- [ ] GitHub repository link (optional)
-
-## 🔗 GitHub Repository
-
-[Upload to your personal GitHub account and add link here]
-
----
-
 **Note**: This project uses synthetic data for demonstration purposes. In production, real transaction data would be used with proper privacy safeguards.
